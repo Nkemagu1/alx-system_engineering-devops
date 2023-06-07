@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l --block-size=1
+ls -la
